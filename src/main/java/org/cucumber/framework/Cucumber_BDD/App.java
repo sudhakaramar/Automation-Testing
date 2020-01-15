@@ -59,6 +59,7 @@ public class App
     	        .keyUp(e,Keys.SHIFT)
     	        .contextClick().build().perform();
     	        System.out.println("adding to conflict");
+    	        System.out.println("second conflict");
     	        
     }
 }
