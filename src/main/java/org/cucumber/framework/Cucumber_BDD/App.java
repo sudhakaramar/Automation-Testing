@@ -52,12 +52,12 @@ public class App
     	        	}
 				});
     	       
-    	        System.out.println("to underatnd pull request");
-    	        WebElement e1=driver.findElement(By.xpath(""));
+    	       
+    	        WebElement e2=driver.findElement(By.xpath(""));
     	        Actions a1=new Actions(driver);
-    	        a1.moveToElement(e1).click().keyDown(e1,Keys.SHIFT)
-    	        .sendKeys(e1,"")
-    	        .keyUp(e1,Keys.SHIFT)
+    	        a1.moveToElement(e2).click().keyDown(e2,Keys.SHIFT)
+    	        .sendKeys(e2,"")
+    	        .keyUp(e2,Keys.SHIFT)
     	        .contextClick().build().perform();
     	        System.out.println("adding to merge");
                 
