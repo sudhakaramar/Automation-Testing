@@ -58,7 +58,11 @@ public class App
     	        .sendKeys(e,"")
     	        .keyUp(e,Keys.SHIFT)
     	        .contextClick().build().perform();
+
     	        System.out.println("resolve conflict");
+
+    	        System.out.println("adding to conflict");
+
     	        
     }
 }
