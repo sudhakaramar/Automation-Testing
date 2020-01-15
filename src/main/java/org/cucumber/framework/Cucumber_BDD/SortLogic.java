@@ -9,11 +9,5 @@ public class SortLogic {
 	
 	public static void main(String[] args) throws FileNotFoundException {
 		
-
-
-		
-
-        File f1=new File("new file5");
-	
-	}
+}
 }
