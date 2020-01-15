@@ -53,11 +53,11 @@ public class App
 				});
     	       
     	        System.out.println("to underatnd pull request");
-    	        WebElement e=driver.findElement(By.xpath(""));
+    	        WebElement e1=driver.findElement(By.xpath(""));
     	        Actions a1=new Actions(driver);
-    	        a1.moveToElement(e).click().keyDown(e,Keys.SHIFT)
-    	        .sendKeys(e,"")
-    	        .keyUp(e,Keys.SHIFT)
+    	        a1.moveToElement(e1).click().keyDown(e1,Keys.SHIFT)
+    	        .sendKeys(e1,"")
+    	        .keyUp(e1,Keys.SHIFT)
     	        .contextClick().build().perform();
     	        System.out.println("adding to merge");
                 
