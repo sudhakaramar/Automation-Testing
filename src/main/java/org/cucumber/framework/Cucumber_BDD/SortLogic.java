@@ -9,7 +9,7 @@ public class SortLogic {
 	
 	public static void main(String[] args) throws FileNotFoundException {
 		
-		FileInputStream fis=new FileInputStream(new File("D:\\Selenium\\Datadriven\\datadriven.xlsx"));
+		FileInputStream fise=new FileInputStream(new File("D:\\Selenium\\Datadriven\\datadriven.xlsx"));
 		
 }
 }
