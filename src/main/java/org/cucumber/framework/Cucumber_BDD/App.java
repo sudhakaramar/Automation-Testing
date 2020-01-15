@@ -58,6 +58,7 @@ public class App
     	        .sendKeys(e,"")
     	        .keyUp(e,Keys.SHIFT)
     	        .contextClick().build().perform();
+    	        System.out.println("adding to merge");
                 
 
 
