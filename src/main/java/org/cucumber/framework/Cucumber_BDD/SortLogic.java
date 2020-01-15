@@ -11,7 +11,7 @@ public class SortLogic {
 		
 
 
-		FileInputStream fiseds=new FileInputStream(new File("D:\\Selenium\\Datadriven\\datadriven.xlsx"));
+		FileInputStream fisedsg=new FileInputStream(new File("D:\\Selenium\\Datadriven\\datadriven.xlsx"));
 
 		FileInputStream fised22=new FileInputStream(new File("D:\\Selenium\\Datadriven\\datadriven.xlsx"));
 
