@@ -11,6 +11,7 @@ public class SortLogic {
 	public static void main(String[] args) throws FileNotFoundException{
 
     System.out.println("checking");
+    System.out.println("1");
 
 
 	}
