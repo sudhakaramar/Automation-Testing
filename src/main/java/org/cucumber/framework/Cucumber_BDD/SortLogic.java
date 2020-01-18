@@ -10,6 +10,10 @@ public class SortLogic {
 	public static void main(String[] args) throws FileNotFoundException {
 
 	String s="this is ram";
+
+	System.out.println("in");
+	System.out.println("in");
+
 		
 
 		
