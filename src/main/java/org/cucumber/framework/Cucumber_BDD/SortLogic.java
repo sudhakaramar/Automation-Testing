@@ -9,8 +9,14 @@ public class SortLogic {
 	
 
 	public static void main(String[] args) throws FileNotFoundException{
+
    System.out.println("adding at 14");
    System.out.println("master changes");
+
+   System.out.println("adding at 17");
+    
+    System.out.println("master changes");
+
 	System.out.println("in");
 	String s="this is ram";
 	System.out.println("adding at 17");
