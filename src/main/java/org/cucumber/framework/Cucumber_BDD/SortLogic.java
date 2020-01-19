@@ -10,16 +10,10 @@ public class SortLogic {
 
 	public static void main(String[] args) throws FileNotFoundException{
 
-		System.out.println("branch1");
-
-		System.out.println("master branch");
 		
+		System.out.println("Master Changes");
 		
-		
-
-
-
-	}
+}
 
 
 }
